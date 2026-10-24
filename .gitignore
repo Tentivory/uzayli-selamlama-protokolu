@@ -1,0 +1,4 @@
+# Gizli dosyalar
+*.pyc
+__pycache__/
+.secret
